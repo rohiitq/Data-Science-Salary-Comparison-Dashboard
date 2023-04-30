@@ -4,12 +4,12 @@
 
 ## Index
 > [Overview](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview)</br>
-> [Dataset Source](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source)
-> [Data Transformation and Enhancements](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#data-transformation-and-enhancements)
-> [SQL Analysis](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Analysis)
-> [Power BI Dashboard](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Power-BI-Dashboard)
-> [SQL Code Examples](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#sql-code-examples-in-this-section-you-can-find-sample-sql-code-snippets-used-for-data-transformation-and-analysis-sql)
-> [Conclusion](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Conclusion)
+> [Dataset Source](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source)</br>
+> [Data Transformation and Enhancements](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#data-transformation-and-enhancements)</br>
+> [SQL Analysis](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Analysis)</br>
+> [Power BI Dashboard](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Power-BI-Dashboard)</br>
+> [SQL Code Examples](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#sql-code-examples-in-this-section-you-can-find-sample-sql-code-snippets-used-for-data-transformation-and-analysis-sql)</br>
+> [Conclusion](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Conclusion)</br>
 
 
 ## Overview
