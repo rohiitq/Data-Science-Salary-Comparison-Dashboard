@@ -1,7 +1,5 @@
 # Data-Science-Salary-Comparison-Dashboard
 
- This Power BI dashboard on Data Science salaries is immensely useful as it empowers users to make data-driven decisions regarding their careers. By synthesizing complex salary data into a visually appealing and comprehensible format, users can easily identify trends, high-paying positions, and desirable work setups. As an aspiring data professional, leveraging Power BI to create this dashboard highlights your skills in data visualization, business intelligence, and analysis. This project not only showcases your technical proficiency in Power BI but also demonstrates your ability to effectively communicate complex insights, making you a valuable candidate for potential employers in the data-driven job market.
-
 **To view the dashboard, please <a href="https://app.powerbi.com/view?r=eyJrIjoiZTdlNzExNDktM2RkMi00MzBhLTljYmUtNmQ0Mjc2MzlhNzZlIiwidCI6ImE5ZGQ1OTEwLTZmMTktNDk5My04OGUyLWI0ZGMyZmQyZjhmYSJ9">click here</a>.**
 
 
