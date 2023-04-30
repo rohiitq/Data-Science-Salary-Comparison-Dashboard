@@ -8,7 +8,7 @@
 > <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#data-transformation-and-enhancements">Data Transformation and Enhancements</a></br>
 > <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Analysis">SQL Analysis</a> </br>
 > <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Power-BI-Dashboard">Power BI Dashboard</a></br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Code-Examples">SQL Code Examples</a></br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#sql-code-examples-in-this-section-you-can-find-sample-sql-code-snippets-used-for-data-transformation-and-analysis-sql">SQL Code Examples</a></br>
 > <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Conclusion">Conclusion</a></br>
 
 ## Overview
