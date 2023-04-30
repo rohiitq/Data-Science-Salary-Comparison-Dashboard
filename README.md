@@ -34,7 +34,7 @@ The dashboard highlights different aspects of the Data Science industry, such as
 
 The following SQL code snippets are used to update the `employee_residence_full` and `salary_currency_full` columns in the `ds_salaries` table.
 
-# Update Employee_Residence_Full
+##### Update Employee_Residence_Full
 
 This code updates the `employee_residence_full` column in the `ds_salaries` table based on the `employee_residence` column values:
 ```
