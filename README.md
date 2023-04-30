@@ -1,15 +1,16 @@
 # Data-Science-Salary-Comparison-Dashboard
 
-**To view the dashboard, please <a href="https://app.powerbi.com/view?r=eyJrIjoiZTdlNzExNDktM2RkMi00MzBhLTljYmUtNmQ0Mjc2MzlhNzZlIiwidCI6ImE5ZGQ1OTEwLTZmMTktNDk5My04OGUyLWI0ZGMyZmQyZjhmYSJ9">click here</a>.**
+**To view the dashboard, please [click here.](https://app.powerbi.com/view?r=eyJrIjoiZTdlNzExNDktM2RkMi00MzBhLTljYmUtNmQ0Mjc2MzlhNzZlIiwidCI6ImE5ZGQ1OTEwLTZmMTktNDk5My04OGUyLWI0ZGMyZmQyZjhmYSJ9)**
 
 ## Index
 > [Overview](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview)</br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source">Dataset Source</a></br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#data-transformation-and-enhancements">Data Transformation and Enhancements</a></br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Analysis">SQL Analysis</a> </br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Power-BI-Dashboard">Power BI Dashboard</a></br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#sql-code-examples-in-this-section-you-can-find-sample-sql-code-snippets-used-for-data-transformation-and-analysis-sql">SQL Code Examples</a></br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Conclusion">Conclusion</a></br>
+> [Dataset Source](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source)
+> [Data Transformation and Enhancements](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#data-transformation-and-enhancements)
+> [SQL Analysis](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Analysis)
+> [Power BI Dashboard](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Power-BI-Dashboard)
+> [SQL Code Examples](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#sql-code-examples-in-this-section-you-can-find-sample-sql-code-snippets-used-for-data-transformation-and-analysis-sql)
+> [Conclusion](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Conclusion)
+
 
 ## Overview
 
