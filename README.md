@@ -40,11 +40,11 @@ The dashboard highlights different aspects of the Data Science industry, such as
 
 ### SQL Code Examples In this section, you can find sample SQL code snippets used for data transformation and analysis: sql
 
-The following SQL code snippets are used to update the `employee_residence_full` and `salary_currency_full` columns in the `ds_salaries` table.
+> The following SQL code snippets are used to update the `employee_residence_full` and `salary_currency_full` columns in the `ds_salaries` table.
 
-#### Update Employee_Residence_Full
+> #### Update Employee_Residence_Full
 
-This code updates the `employee_residence_full` column in the `ds_salaries` table based on the `employee_residence` column values:
+> This code updates the `employee_residence_full` column in the `ds_salaries` table based on the `employee_residence` column values:
 ```
 UPDATE ds_salaries
 SET employee_residence_full = 
@@ -129,9 +129,9 @@ SET employee_residence_full =
         end;
 ```
 
-#### Update Salary_Currency_Full
+> #### Update Salary_Currency_Full
 
-This code updates the `salary_currency_full` column in the `ds_salaries` table based on the `salary_currency` column values:
+> This code updates the `salary_currency_full` column in the `ds_salaries` table based on the `salary_currency` column values:
 ```
 UPDATE ds_salaries
 SET salary_currency_full = 
@@ -160,9 +160,9 @@ SET salary_currency_full =
     END;
 ```
 
-#### Update remote_ratio_full
+> #### Update remote_ratio_full
 
-This code updates the `remote_ratio_full` column in the `ds_salaries` table based on the `remote_ratio` column values:
+> This code updates the `remote_ratio_full` column in the `ds_salaries` table based on the `remote_ratio` column values:
 ```
 update ds_salaries
 set remote_ration_full = case remote_ratio
