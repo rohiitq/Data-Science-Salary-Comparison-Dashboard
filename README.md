@@ -117,19 +117,19 @@ SET employee_residence_full =
         WHEN 'RU' THEN 'Russia'
         WHEN 'DZ' THEN 'Algeria'
         WHEN 'IQ' THEN 'Iraq'
-	    	WHEN 'BG' THEN 'Bulgaria'
-	    	WHEN 'JE' THEN 'Jersey'
-	    	WHEN 'RS' THEN 'Serbia'
-	    	WHEN 'NZ' THEN 'New Zealand'
-	    	WHEN 'MD' THEN 'Moldova'
-	    	WHEN 'LU' THEN 'Luxembourg'
-	    	WHEN 'MT' THEN 'Malta'
-	    	ELSE 'Unknown'
+	WHEN 'BG' THEN 'Bulgaria'
+	WHEN 'JE' THEN 'Jersey'
+    	WHEN 'RS' THEN 'Serbia'
+   	WHEN 'NZ' THEN 'New Zealand'
+    	WHEN 'MD' THEN 'Moldova'
+    	WHEN 'LU' THEN 'Luxembourg'
+    	WHEN 'MT' THEN 'Malta'
+    	ELSE 'Unknown'
         end;
 ```
 
 - #### Update Salary_Currency_Full
- - This code updates the `salary_currency_full` column in the `ds_salaries` table based on the `salary_currency` column values:
+  - This code updates the `salary_currency_full` column in the `ds_salaries` table based on the `salary_currency` column values:
 ```
 UPDATE ds_salaries
 SET salary_currency_full = 
