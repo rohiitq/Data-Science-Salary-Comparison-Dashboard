@@ -128,9 +128,8 @@ SET employee_residence_full =
         end;
 ```
 
-> #### Update Salary_Currency_Full
-
-> This code updates the `salary_currency_full` column in the `ds_salaries` table based on the `salary_currency` column values:
+- #### Update Salary_Currency_Full
+ - This code updates the `salary_currency_full` column in the `ds_salaries` table based on the `salary_currency` column values:
 ```
 UPDATE ds_salaries
 SET salary_currency_full = 
@@ -159,9 +158,8 @@ SET salary_currency_full =
     END;
 ```
 
-> #### Update remote_ratio_full
-
-> This code updates the `remote_ratio_full` column in the `ds_salaries` table based on the `remote_ratio` column values:
+- #### Update remote_ratio_full
+  - This code updates the `remote_ratio_full` column in the `ds_salaries` table based on the `remote_ratio` column values:
 ```
 update ds_salaries
 set remote_ration_full = case remote_ratio
