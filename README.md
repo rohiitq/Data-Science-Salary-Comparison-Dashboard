@@ -4,7 +4,7 @@
 
 ## Index
 
-> * [Overview](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview)
+` * [Overview](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview)
 * [Dataset Source](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source)
 * [Data Transformation and Enhancements](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#data-transformation-and-enhancements)
 * [SQL Analysis](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Analysis)
@@ -14,7 +14,7 @@
     * [Update Salary_Currency_Full](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard#update-salary_currency_full)
     * [Update remote_ratio_full](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard#update-remote_ratio_full)
 * [Conclusion](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Conclusion)
-
+`
 ## Overview
 
 This Power BI dashboard provides valuable insights into the salaries of different fields in Data Science from 2020 to 2023. It not only helps you understand trends in the industry but also allows you to customize your search based on the desired country, year, job type (entry-level, mid-level, or senior-level) and employment type (full-time, part-time).
