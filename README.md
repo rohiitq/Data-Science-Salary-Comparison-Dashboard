@@ -5,11 +5,11 @@
 ## Index
 > <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Overview</a></br>
 > <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source">Dataset Source</a></br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Data Transformation and Enhancements</a></br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Overview</a> </br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source">Dataset Source</a></br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Data Transformation and Enhancements</a></br>
-> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">SQL Analysis</a></br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Transformation-and-Enhancements">Data Transformation and Enhancements</a></br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Analysis">SQL Analysis</a> </br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Power-BI-Dashboard">Power BI Dashboard</a></br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Code-Examples">SQL Code Examples</a></br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Conclusion">Conclusion</a></br>
 
 ## Overview
 
