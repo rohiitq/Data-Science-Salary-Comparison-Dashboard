@@ -3,8 +3,13 @@
 **To view the dashboard, please <a href="https://app.powerbi.com/view?r=eyJrIjoiZTdlNzExNDktM2RkMi00MzBhLTljYmUtNmQ0Mjc2MzlhNzZlIiwidCI6ImE5ZGQ1OTEwLTZmMTktNDk5My04OGUyLWI0ZGMyZmQyZjhmYSJ9">click here</a>.**
 
 ## Index
-Overview</br>
-Dataset Source
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Overview</a></br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source">Dataset Source</a></br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Data Transformation and Enhancements</a></br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Overview</a> </br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source">Dataset Source</a></br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Data Transformation and Enhancements</a></br>
+> <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">SQL Analysis</a></br>
 
 ## Overview
 
