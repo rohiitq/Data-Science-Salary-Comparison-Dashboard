@@ -41,11 +41,11 @@ The dashboard highlights different aspects of the Data Science industry, such as
 
 ### SQL Code Examples In this section, you can find sample SQL code snippets used for data transformation and analysis: sql
 
-  _The following SQL code snippets are used to update the `employee_residence_full` and `salary_currency_full` columns in the `ds_salaries` table.
+_ The following SQL code snippets are used to update the `employee_residence_full` and `salary_currency_full` columns in the `ds_salaries` table.
 
-    _#### Update Employee_Residence_Full
+_ #### Update Employee_Residence_Full
 
-      _This code updates the `employee_residence_full` column in the `ds_salaries` table based on the `employee_residence` column values:
+_ This code updates the `employee_residence_full` column in the `ds_salaries` table based on the `employee_residence` column values:
 ```
 UPDATE ds_salaries
 SET employee_residence_full = 
