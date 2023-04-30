@@ -3,13 +3,13 @@
 **To view the dashboard, please [click here.](https://app.powerbi.com/view?r=eyJrIjoiZTdlNzExNDktM2RkMi00MzBhLTljYmUtNmQ0Mjc2MzlhNzZlIiwidCI6ImE5ZGQ1OTEwLTZmMTktNDk5My04OGUyLWI0ZGMyZmQyZjhmYSJ9)**
 
 ## Index
-> [Overview](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview)</br>
-> [Dataset Source](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source)</br>
-> [Data Transformation and Enhancements](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#data-transformation-and-enhancements)</br>
-> [SQL Analysis](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Analysis)</br>
-> [Power BI Dashboard](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Power-BI-Dashboard)</br>
-> [SQL Code Examples](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#sql-code-examples-in-this-section-you-can-find-sample-sql-code-snippets-used-for-data-transformation-and-analysis-sql)</br>
-> [Conclusion](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Conclusion)</br>
+> 1. [Overview](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview)</br>
+> 2. [Dataset Source](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source)</br>
+> 3. [Data Transformation and Enhancements](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#data-transformation-and-enhancements)</br>
+> 4. [SQL Analysis](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Analysis)</br>
+> 5. [Power BI Dashboard](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Power-BI-Dashboard)</br>
+> 6. [SQL Code Examples](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#sql-code-examples-in-this-section-you-can-find-sample-sql-code-snippets-used-for-data-transformation-and-analysis-sql)</br>
+> 7. [Conclusion](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Conclusion)</br>
 
 
 ## Overview
