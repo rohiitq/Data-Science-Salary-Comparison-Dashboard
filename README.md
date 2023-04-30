@@ -2,6 +2,15 @@
 
 **To view the dashboard, please <a href="https://app.powerbi.com/view?r=eyJrIjoiZTdlNzExNDktM2RkMi00MzBhLTljYmUtNmQ0Mjc2MzlhNzZlIiwidCI6ImE5ZGQ1OTEwLTZmMTktNDk5My04OGUyLWI0ZGMyZmQyZjhmYSJ9">click here</a>.**
 
+##Index
+Overview
+Dataset Source
+Data Transformation and Enhancements
+SQL Analysis
+Power BI Dashboard
+SQL Code Examples
+Update Employee_Residence_Full
+Update Salary_Currency_Full
 
 ## Overview
 
