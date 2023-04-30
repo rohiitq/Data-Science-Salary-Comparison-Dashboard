@@ -4,13 +4,13 @@
 
 ## Index
 <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Overview</a>
-Dataset Source
-Data Transformation and Enhancements
-SQL Analysis
-Power BI Dashboard
-SQL Code Examples
-Update Employee_Residence_Full
-Update Salary_Currency_Full
+<a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#datasetsource">Dataset Source</a>
+<a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Data Transformation and Enhancements</a>
+<a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">SQL Analysis</a>
+<a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Power BI Dashboard</a>
+<a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">SQL Code Examples</a>
+<a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Update Employee_Residence_Full</a>
+<a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Update Salary_Currency_Full</a>
 
 ## Overview
 
