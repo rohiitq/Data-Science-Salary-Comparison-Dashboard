@@ -10,7 +10,7 @@ This Power BI dashboard provides valuable insights into the salaries of differen
 ### Dataset Source
 
 The dataset was obtained from Kaggle:
-<a herf ="https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023">Data Science Salaries Dataset</a>
+<a href ="https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023">Data Science Salaries Dataset</a>
 
 ### Dataset Details
 
