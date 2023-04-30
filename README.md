@@ -4,7 +4,7 @@
 
 ## Index
 
-* [Overview](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview)
+> * [Overview](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview)
 * [Dataset Source](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source)
 * [Data Transformation and Enhancements](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#data-transformation-and-enhancements)
 * [SQL Analysis](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Analysis)
