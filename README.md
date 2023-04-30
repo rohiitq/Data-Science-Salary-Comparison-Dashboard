@@ -9,7 +9,7 @@
 > * [SQL Analysis](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#SQL-Analysis)</br>
 > * [Power BI Dashboard](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Power-BI-Dashboard)
 > - [SQL Code Examples](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#sql-code-examples-in-this-section-you-can-find-sample-sql-code-snippets-used-for-data-transformation-and-analysis-sql)
-	- [Update Employee_Residence_Full](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard#update-employee_residence_full)
+    - [Update Employee_Residence_Full](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard#update-employee_residence_full)
 	- [Update Salary_Currency_Full](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard#update-salary_currency_full)
 	- [Update remote_ratio_full](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard#update-remote_ratio_full)
 > * [Conclusion](https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#Conclusion)</br>
