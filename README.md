@@ -7,10 +7,10 @@
 
 This Power BI dashboard provides valuable insights into the salaries of different fields in Data Science from 2020 to 2023. It not only helps you understand trends in the industry but also allows you to customize your search based on the desired country, year, job type (entry-level, mid-level, or senior-level) and employment type (full-time, part-time).
 
-### Getting the Dataset
+### Dataset Source
 
-The dataset has been downloaded from Kaggle via the following link:
-https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
+The dataset was obtained from Kaggle:
+<a herf ="https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023">Data Science Salaries Dataset</a>
 
 ### Dataset Details
 
