@@ -4,7 +4,7 @@
 
 ## Index
 <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Overview</a>
-<a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#datasetsource">Dataset Source</a>
+<a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#dataset-source">Dataset Source</a>
 <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Data Transformation and Enhancements</a>
 <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">SQL Analysis</a>
 <a href = "https://github.com/rohiitq/Data-Science-Salary-Comparison-Dashboard/blob/main/README.md#overview">Power BI Dashboard</a>
