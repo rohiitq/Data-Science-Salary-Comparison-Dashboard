@@ -43,6 +43,8 @@ The dashboard highlights different aspects of the Data Science industry, such as
 - A graph comparing the size of companies and the type of jobs (remote, hybrid, and office job) offered by them.
 - The percentage of people working in remote, hybrid, and office jobs.
 
+Disclaimer: The dataset I used for this project only has 3735 rows, so the dashboard can only provide you with a rough figure for the salary. If I obtain a larger dataset in the future, I will update it accordingly.
+
 ### SQL Code Examples In this section, you can find sample SQL code snippets used for data transformation and analysis: sql
 
 The following SQL code snippets are used to update the `employee_residence_full` and `salary_currency_full` columns in the `ds_salaries` table.
